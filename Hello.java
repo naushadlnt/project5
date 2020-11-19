@@ -6,7 +6,8 @@ public class Hello{
 	System.out.print("Hello from Hanish");
 	System.out.print("Hello from Aish");
 	System.out.print("Hello from Siddhi");
-        System.out.print("Hello from Divya");
+                System.out.print("Hello from Divya");
+	System.out.print("Hello from Sumith");
 
 	
 	
