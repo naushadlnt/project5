@@ -2,6 +2,9 @@ inside child file
 b2
 
 
+-------my name is khan------
 
 
--------my name is b2------
+Salesforce
+Microsoft
+--------------------------------
