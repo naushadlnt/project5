@@ -1,4 +1,3 @@
-import java.util.*;
 public class Hello{
 	
 	{
@@ -9,7 +8,8 @@ public class Hello{
 	public static void main(String a[]){
 	System.out.print("Hello");
 	
-	ArrayList al = new ArrayList();
+	System.out.println("ArrayList uda diya");
+	
 	}
 	
 }
