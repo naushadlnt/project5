@@ -1,7 +1,7 @@
 public class Hello{
 
 	public static void main(String a[]){
-	System.out.print("Hello from Vishal");
+	System.out.print("Hello from Aditi");
 	}
 	
 }
